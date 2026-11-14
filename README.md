@@ -1,4 +1,4 @@
-Stroke Prediction Model
+SHAP Stroke Prediction Model
 
 For my XAI class. Heavily based on the model architecture from the slides, with some changes (EDA panel & an additional probability based explanation method)
 
